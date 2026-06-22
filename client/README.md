@@ -24,9 +24,9 @@ Les données du formulaire sont enregistrées dans une base de données MongoDB 
 
 ### Captures d'écran
 
-formulaire.png -> formulaire
-required.png -> champ obligatoire sinon demande non transmise
-succès -> notification demande bien envoyé et enregistr sur la base de donnée
+./screenshots/formulaire.png -> formulaire
+./screenshots/required.png -> champ obligatoire sinon demande non transmise
+./screenshots/succes -> notification demande bien envoyé et enregister sur la base de donnée
 
 ## Stack technique & choix
 
@@ -72,7 +72,7 @@ npm start
 
 Le projet est accessible sur :
 
-http://localhost:300
+http://localhost:3000
 
 ### Back-end
 
@@ -100,7 +100,7 @@ http://localhost:5001
 
 ### Avez-vous trouvé l'exercice facile ou difficile ? Qu'est-ce qui vous a posé problème ?
 
-L'intégration de l'interface et la mise en place de la communication entre le front-end et le back-end ont représenté les principaux défis de cet exercice. La configuration de MongoDB Atlas et la gestion des états du formulaire ont été particulièrement enrichissantes.
+L'exercice a été assez facile.L'intégration de l'interface et la mise en place de la communication entre le front-end et le back-end ont représenté les principaux défis de cet exercice. La configuration de MongoDB Atlas et la gestion des états du formulaire ont été particulièrement enrichissantes.
 
 ### Avez-vous appris de nouveaux outils pour répondre à l'exercice ? Si oui, lesquels ?
 
