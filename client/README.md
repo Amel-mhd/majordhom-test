@@ -59,9 +59,8 @@ succès -> notification demande bien envoyé et enregistr sur la base de donnée
 Clonez le dépôt :
 
 ```bash
-git clone [URL_DU_DEPOT]
-cd majordhom-test
-```
+git clone https://github.com/Amel-mhd/majordhom-test.git
+
 
 ### Front-end
 
